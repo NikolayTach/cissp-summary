@@ -1,6 +1,7 @@
 # CISSP guide #
 This is my learning guide for preparation of the CISSP exam. It covers the essential information on all relevant domains. I aim to keep it as brief as possible leaving out most of the basics, so some previous knowledeg on IT security is mandatory.
 
+[![binary license](https://img.esa.io/uploads/production/attachments/17596/2021/04/10/101590/654fbc34-593b-4224-a054-e50cac1baaea.svg)](https://www.oracle.com/downloads/licenses/binary-code-license.html)
 ## Access Control ##
 Subjects ability to communicate with an object is allowed/denied based on security requirements. It is needed to proetct information, computers, networks and all other infrastructure (buildings).
 
